@@ -1,1 +1,1 @@
-# Senior-Project
+Branch Protection Checker
